@@ -1,10 +1,10 @@
 {
   "name": "Your Collection #5",
   "description": "Remember to replace this description",
-  "image": "https://secret-oasis-58410.herokuapp.com/images/5.png",
-  "dna": "809356bf47f0b4cc4e59ddc1d296dacd5cfc6e83",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "01f773ac1b5a67929370a6ff1ed5cef02cf13625",
   "edition": 5,
-  "date": 1653811882108,
+  "date": 1653814982465,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Eye color",
-      "value": "Cyan"
+      "value": "Yellow"
     },
     {
       "trait_type": "Iris",
-      "value": "Small"
+      "value": "Medium"
     },
     {
       "trait_type": "Shine",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "High"
+      "value": "Low"
     },
     {
       "trait_type": "Top lid",
-      "value": "Low"
+      "value": "Middle"
     }
   ],
   "compiler": "HashLips Art Engine"

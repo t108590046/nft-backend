@@ -4,7 +4,7 @@ const mysql = require("mysql");
 const database = require('./database/index')
 const app = express();
 var path = require('path');
-const { startCreating, buildSetup } = require(`./NFT-Creator/hashlip/src/main.js`);
+const { startCreating, buildSetup } = require(`./NFT-creator/src/main.js`);
 const port = 8000;
 
 //-----------------顯示圖片--------------

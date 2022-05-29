@@ -1,10 +1,10 @@
 {
   "name": "Your Collection #1",
   "description": "Remember to replace this description",
-  "image": "https://secret-oasis-58410.herokuapp.com/images/1.png",
-  "dna": "5f34550a61642e6484671b7b40ca1b6489efcb91",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "6df034b693ab91ac7aff321dbf6338550c582d7a",
   "edition": 1,
-  "date": 1653811881686,
+  "date": 1653814981998,
   "attributes": [
     {
       "trait_type": "Background",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Iris",
-      "value": "Small"
+      "value": "Large"
     },
     {
       "trait_type": "Shine",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Middle"
+      "value": "Low"
     },
     {
       "trait_type": "Top lid",
-      "value": "High"
+      "value": "Low"
     }
   ],
   "compiler": "HashLips Art Engine"
