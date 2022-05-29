@@ -19,7 +19,7 @@ app.get("/makeNFT", (req, res) => {
     try{
         buildSetup();
         startCreating();
-        res.send("NFT Create 成功!!!");
+        res.send("NFT Create 成功!!");
     }
     catch(error)
     {
