@@ -1,10 +1,10 @@
 {
-  "name": "Your Collection #2",
+  "name": "Your Collection #7",
   "description": "Remember to replace this description",
-  "image": "https://secret-oasis-58410.herokuapp.com/images/2.png",
-  "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
-  "edition": 2,
-  "date": 1653815542289,
+  "image": "https://secret-oasis-58410.herokuapp.com/images/7.png",
+  "dna": "ecd640d97620e4f94f4c0c577bcfe9bf649c98fe",
+  "edition": 7,
+  "date": 1653815542922,
   "attributes": [
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "High"
     },
     {
       "trait_type": "Top lid",

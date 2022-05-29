@@ -1,11 +1,323 @@
 [
   {
+    "name": "Your Collection #0",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/0.png",
+    "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
+    "edition": 0,
+    "date": 1653815542052,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
     "name": "Your Collection #1",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/1.png",
-    "dna": "6df034b693ab91ac7aff321dbf6338550c582d7a",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/1.png",
+    "dna": "0ecc8dec487279abbeeb4e21b930cb6a4ae29706",
     "edition": 1,
-    "date": 1653814981998,
+    "date": 1653815542164,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/2.png",
+    "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+    "edition": 2,
+    "date": 1653815542289,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/3.png",
+    "dna": "9bb9813d780bc66544bbd1552711b069b03ebacd",
+    "edition": 3,
+    "date": 1653815542414,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/4.png",
+    "dna": "f6decd3758fec287ebba5cda110e0f50afacd3d1",
+    "edition": 4,
+    "date": 1653815542526,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/5.png",
+    "dna": "f5442e9d373d9d1d93d089e18fdf3584cb4fe44b",
+    "edition": 5,
+    "date": 1653815542666,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/6.png",
+    "dna": "9bbb5b6b181ea759599177d7b0416de3c1c6dddd",
+    "edition": 6,
+    "date": 1653815542797,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/7.png",
+    "dna": "ecd640d97620e4f94f4c0c577bcfe9bf649c98fe",
+    "edition": 7,
+    "date": 1653815542922,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "https://secret-oasis-58410.herokuapp.com/images/8.png",
+    "dna": "749f101fac6b14a3ad2024d979ad264167b8f104",
+    "edition": 8,
+    "date": 1653815543028,
     "attributes": [
       {
         "trait_type": "Background",
@@ -29,22 +341,22 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
+        "value": "Middle"
       },
       {
         "trait_type": "Top lid",
-        "value": "Low"
+        "value": "Middle"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Your Collection #2",
+    "name": "Your Collection #9",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/2.png",
-    "dna": "db330e73a787e834fbd9bf73515e1479d93a569a",
-    "edition": 2,
-    "date": 1653814982113,
+    "image": "https://secret-oasis-58410.herokuapp.com/images/9.png",
+    "dna": "e82cba76e24c22e259fa515429901a890cacfd11",
+    "edition": 9,
+    "date": 1653815543135,
     "attributes": [
       {
         "trait_type": "Background",
@@ -53,84 +365,6 @@
       {
         "trait_type": "Eyeball",
         "value": "White"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Pink"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Middle"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "High"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #3",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/3.png",
-    "dna": "9bbb5b6b181ea759599177d7b0416de3c1c6dddd",
-    "edition": 3,
-    "date": 1653814982238,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Small"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Low"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #4",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/4.png",
-    "dna": "61e48aad1604691baef6491a4481cb0e3e32ec6c",
-    "edition": 4,
-    "date": 1653814982361,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
       },
       {
         "trait_type": "Eye color",
@@ -138,46 +372,7 @@
       },
       {
         "trait_type": "Iris",
-        "value": "Small"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Middle"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Middle"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Your Collection #5",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/5.png",
-    "dna": "01f773ac1b5a67929370a6ff1ed5cef02cf13625",
-    "edition": 5,
-    "date": 1653814982465,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "White"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
+        "value": "Large"
       },
       {
         "trait_type": "Shine",
@@ -189,7 +384,7 @@
       },
       {
         "trait_type": "Top lid",
-        "value": "Middle"
+        "value": "High"
       }
     ],
     "compiler": "HashLips Art Engine"

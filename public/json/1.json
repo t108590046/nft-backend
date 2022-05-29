@@ -1,10 +1,10 @@
 {
   "name": "Your Collection #1",
   "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/1.png",
-  "dna": "6df034b693ab91ac7aff321dbf6338550c582d7a",
+  "image": "https://secret-oasis-58410.herokuapp.com/images/1.png",
+  "dna": "0ecc8dec487279abbeeb4e21b930cb6a4ae29706",
   "edition": 1,
-  "date": 1653814981998,
+  "date": 1653815542164,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Eye color",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",
