@@ -12,7 +12,7 @@ var dir = path.join(__dirname, 'public');
 app.use(express.static(__dirname + '/public'));
 //----------------------------------------
 app.get("/", (req, res) => {
-    res.send("Hello World !");
+    res.send("Hello World !test");
 });
 
 app.get("/makeNFT", (req, res) => {
