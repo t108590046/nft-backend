@@ -4,7 +4,8 @@ const mysql = require("mysql");
 const database = require('./database/index')
 const app = express();
 var path = require('path');
-const { startCreating, buildSetup } = require(`./nft-creator/src/main.js`);
+const {start } = require(`./nft-creator/src/main.js`);
+const {UploadToIpfs } = require(`./IpfsUpload/index`);
 const port = 8000;
 
 //-----------------顯示圖片--------------
@@ -17,9 +18,20 @@ app.get("/", (req, res) => {
 
 app.get("/makeNFT", (req, res) => {
     try{
-        buildSetup();
-        startCreating();
+        start();
         res.send("NFT Create 成功!!");
+    }
+    catch(error)
+    {
+        res.send(error);
+    }
+});
+
+app.get("/getImage/:id", async(req, res) => {
+    try{
+        let URL =  await UploadToIpfs(req.params["id"]);
+        console.log(URL);
+        res.send("https://ipfs.io/ipfs/" + URL);
     }
     catch(error)
     {

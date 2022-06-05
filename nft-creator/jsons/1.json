@@ -1,11 +1,10 @@
-[
-  {
+{
     "name": "Your Collection #1",
     "description": "Remember to replace this description",
     "image": "ipfs://NewUriToReplace/1.png",
-    "dna": "ddc9bff403dc5cbdce7f20d4b6d780fdba0d5086",
+    "dna": "b59009d49afd40aaa87604ba5f73c9fd9b867f67",
     "edition": 1,
-    "date": 1654436414532,
+    "date": 1653581718158,
     "attributes": [
       {
         "trait_type": "background",
@@ -14,8 +13,11 @@
       {
         "trait_type": "main",
         "value": "dog"
+      },
+      {
+        "trait_type": "acc",
+        "value": "null"
       }
     ],
     "compiler": "HashLips Art Engine"
   }
-]
